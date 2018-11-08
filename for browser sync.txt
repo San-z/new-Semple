@@ -1,1 +1,1 @@
-browser-sync start --server --files "*.*,assets/css/*"
+browser-sync start --server --files "*.*,assets/css/*,assets/js/*"
